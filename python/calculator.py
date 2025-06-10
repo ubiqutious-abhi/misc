@@ -2,11 +2,11 @@ def add(n1,n2):
     return n1+n2
 
 
-def subtract(n1,n2):
+def subtract(n1,n2):  #always keep spacing between functions consistent.. 2 new lines after each end of functions is good.
     return n1-n2
 def multiply(n1,n2):
     return n1*n2
-def divide(n1,n2):
+def divide(n1,n2): #its a good practice to check if the n2 number is 0.. because you cant divide by 0.. this will cause error is second number is 0.
     return n1/n2
 
 
